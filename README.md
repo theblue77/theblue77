@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theblue77
+- 👋 Hi, I’m @Aokira77
 - 👀 I’m interested in videogames and apps
 - 🌱 I’m currently learning how to program in Java Eclipse
 - 💞️ I’m looking to collaborate on ...
